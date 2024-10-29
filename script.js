@@ -107,7 +107,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
             break;
         case 4:
            
-            document.getElementById('noBtn').innerHTML = 'Mera tortuga veeeeh, daleeeee ¡Ultima oportunidad!';
+            document.getElementById('noBtn').innerHTML = 'Mera boba veeeeh, daleeeee ¡Ultima oportunidad!';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
